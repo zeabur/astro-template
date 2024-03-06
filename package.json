@@ -10,8 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.4.12",
     "@astrojs/check": "^0.5.6",
+    "@zeabur/astro-adapter": "^1.0.0",
+    "astro": "^4.4.12",
     "typescript": "^5.3.3"
   }
 }
